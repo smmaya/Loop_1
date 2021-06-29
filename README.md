@@ -1,1 +1,1 @@
-# Loop_1
+# Loop 1 - suma n pierwszych liczb
